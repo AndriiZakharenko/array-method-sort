@@ -1,6 +1,15 @@
-# Custom implementation of Array.prototype.sort()
+# Array Method Sort
 
+### Description
 
-# Task description: 
+- Implemented an own implementation of `Array.prototype.sort` method with `[].__proto__.sort2`
+  
+### Stack
 
-Wrote an own implementation of `Array.prototype.sort` method. Use predefined `[].__proto__.sort2` function for your implementation.
+- JS
+
+### Tools
+
+- ESlint
+- Prettier
+- Jest
