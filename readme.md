@@ -1,9 +1,15 @@
-# Custom implementation of Array.prototype.sort()
+# Array Method Sort
 
-> [Guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md)
+### Description
 
-# Task description: 
+- Added an own implementation of `Array.prototype.sort` method with `[].__proto__.sort2`
+  
+### Stack
 
-Write your own implementation of `Array.prototype.sort` method. Use predefined `[].__proto__.sort2` function for your implementation.
+- JS
 
-Read more about [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+### Tools
+
+- ESlint
+- Prettier
+- Jest
