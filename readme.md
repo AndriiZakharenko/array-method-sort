@@ -2,7 +2,7 @@
 
 ### Description
 
-- Implemented an own implementation of `Array.prototype.sort` method with `[].__proto__.sort2`
+- Added an own implementation of `Array.prototype.sort` method with `[].__proto__.sort2`
   
 ### Stack
 
