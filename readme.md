@@ -1,15 +1,19 @@
 # Array Method Sort
 
-### Description
+## 🎮 About the Project
+An own implementation of the `Array.prototype.sort` method, extended with `[].__proto__.sort2`. This function sorts the elements of an array in place, similar to the native `sort()` method, but with a custom implementation for educational purposes.
 
-- Added an own implementation of `Array.prototype.sort` method with `[].__proto__.sort2`
-  
-### Stack
+## 🚀 Tech Stack
+- **JavaScript** (Function implementation and logic)
 
-- JS
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality
+- **Prettier** – Code formatting for readability
+- **Jest** – Unit testing framework
 
-### Tools
+## 📌 Features
+✅ Custom sorting function mimicking the native `sort` method  
+✅ Allows sorting arrays in ascending or descending order  
 
-- ESlint
-- Prettier
-- Jest
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_array-method-sort)
